@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node heroku"
   },
+  "engines": { "node": "8.9.4" }, 
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.15.0",
